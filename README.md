@@ -51,7 +51,7 @@ This project analyzes sales performance, profitability, customer behavior, and p
 ## 📈 View Full Report
 👉 **Click below to view the interactive HTML report:**
 
-[View Report](https://htmlpreview.github.io/?https://github.com/irfankafait/sales-analysis-project/blob/main/reports/sales_analysis_project.html)
+[View Report][(https://htmlpreview.github.io/?https://github.com/irfankafait/sales-analysis-project/blob/main/reports/sales_analysis_project.html)](https://github.com/irfankafait/sales-analysis-project/blob/main/reports/sales_analysis_project.html)
 
 ---
 
