@@ -1,7 +1,14 @@
 # 📊 Sales & Profitability Analysis
 
 ## 📌 Project Overview
-This project analyzes sales performance, profitability, customer behavior, and product-level insights using Python. The goal is to identify key business drivers and provide actionable recommendations for improving performance.
+This project analyzes sales performance across regions, categories, and customer segments to identify key drivers of profitability and uncover hidden inefficiencies.
+
+The analysis combines:
+- Exploratory data analysis (EDA)
+- Business insights
+- Statistical validation (T-test & ANOVA)
+
+The goal is to move beyond descriptive analytics and provide actionable recommendations for decision-making.
 
 ---
 
