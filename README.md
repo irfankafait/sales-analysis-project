@@ -1,4 +1,4 @@
-# 📊 Sales & Profitability Analysis
+# 📊 Sales & Profitability Analysis (EDA + Business Insights + Statistical Validation)
 
 
 ## 📌 Executive Summary
