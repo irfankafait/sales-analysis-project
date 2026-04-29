@@ -1,5 +1,5 @@
 # 📊 Sales & Profitability Analysis (EDA + Business Insights + Statistical Validation)
-
+[![View Report](https://img.shields.io/badge/View-Interactive_Report-blue)](https://htmlpreview.github.io/?https://github.com/irfankafait/sales-analysis-project/blob/main/reports/sales_analysis_project.html)
 
 ## 📌 Executive Summary
 - Sales are growing steadily with seasonal peaks  
